@@ -3,8 +3,9 @@
 - 🌱 I’m learning machine learning
 - 💞️ I’m open to collaborating on  and educational projects.
 - 📫 How to reach me yusufefeyesil20@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: None
+- Accounts Kaggle : https://www.kaggle.com/yusufefeyeil
 
 <!---
 Yusuf-E-Y/Yusuf-E-Y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
