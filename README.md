@@ -2,7 +2,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.kaggle.com/yusufefeyeil">Kaggle</a>
-<a href="yusufefeyesil20@gmail.com">G-mail</a>
 <p align="left">
 </p>
 
