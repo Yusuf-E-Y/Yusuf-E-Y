@@ -1,7 +1,7 @@
 <h3 align="center">A high school student in Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.kaggle.com/yusufefeyeil">Kaggle</a>
+<a href="https://www.kaggle.com/yusufefeyeil" target = "_blank">Kaggle</a>
 <p align="left">
 </p>
 
