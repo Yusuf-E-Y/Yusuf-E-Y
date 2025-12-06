@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **yusufefeyesil20@gmail.com**
 
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yusuf-E-Y&theme=dark)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/yusufefeyeil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusufefeyeil" height="30" width="40" /></a>
