@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **yusufefeyesil20@gmail.com**
 
-[![GitHub Streak](https://github-readme-streak-stats-git-depen-570ef1-yusuf-e-ys-projects.vercel.app/?user=Yusuf-E-Y&theme=dark)](https://github.com/Yusuf-E-Y)
+[![GitHub Streak](https://github-readme-streak-stats-dtsd9ttns-yusuf-e-ys-projects.vercel.app?user=Yusuf-E-Y)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
