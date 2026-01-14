@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 📫 How to reach me **yusufefeyesil20@gmail.com**
-
 [![GitHub Streak](https://github-readme-stats-cf8q.vercel.app?user=Yusuf-E-Y&theme=dark&card_width=400&card_height=300)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
