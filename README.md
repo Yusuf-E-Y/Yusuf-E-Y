@@ -1,4 +1,4 @@
-<h3 align="center">A high school student in Türkiye</h3>
+<h3 align="center">^_^</h3>
 
 - 🔭 I’m currently working on **Python**
 
